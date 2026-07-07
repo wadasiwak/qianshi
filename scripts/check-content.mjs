@@ -29,6 +29,10 @@ function checkTemple(file, label, expected, opts = {}) {
     err(`${label}: 讀取失敗 ${e.message}`)
     return
   }
+  if (opts.optional && lots.length === 0) {
+    console.log(`- ${label}: 尚未收錄（optional，跳過）`)
+    return
+  }
   if (lots.length !== expected) err(`${label}: 應有 ${expected} 首，實際 ${lots.length}`)
   const seen = new Set()
   for (const lot of lots) {
@@ -63,7 +67,7 @@ function checkTemple(file, label, expected, opts = {}) {
 
 checkTemple('lukang.ts', '鹿港', 100, { official: true })
 checkTemple('xingtian.ts', '行天宮', 100, { traditional: true })
-checkTemple('meiji.ts', '明治神宮', 30, { waka: true })
+checkTemple('meiji.ts', '明治神宮', 30, { waka: true, optional: true })
 
 if (errors) {
   console.error(`\n共 ${errors} 個問題`)

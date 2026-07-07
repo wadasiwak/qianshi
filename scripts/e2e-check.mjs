@@ -36,7 +36,8 @@ try {
   // 1. 首頁：兩張宮廟卡
   await page.waitForSelector('.temple-cards', { timeout: 5000 })
   const cards = await page.$$('.temple-card')
-  if (cards.length !== 3) fail(`首頁應有 3 張宮廟卡，實得 ${cards.length}`)
+  if (cards.length < 2) fail(`首頁至少應有 2 張宮廟卡，實得 ${cards.length}`)
+  const hasMeiji = (await page.$('.temple-meiji')) !== null
 
   // 2. 進鹿港 → 全籤 grid 100 格
   await page.click('.temple-lukang .btn.primary')
@@ -78,7 +79,8 @@ try {
   const xtDetail = await page.textContent('.detail')
   if (!xtDetail.includes('傳統解曰')) fail('行天宮解籤頁缺「傳統解曰」')
 
-  // 5c. 明治神宮：grid 30 格、解籤頁無吉凶徽章、求籤不擲筊
+  // 5c. 明治神宮（內容上線後才測）：grid 30 格、解籤頁無吉凶徽章、求籤不擲筊
+  if (hasMeiji) {
   await page.goto(`${BASE_URL}#meiji`)
   await page.reload()
   await page.waitForSelector('.lot-grid', { timeout: 3000 })
@@ -96,6 +98,7 @@ try {
   if (!mjBtn.includes('大御心')) fail('明治神宮抽籤後不應出現擲筊，應直接看解')
   await page.click('.draw-panel .btn.primary')
   await page.waitForSelector('.poem-card', { timeout: 3000 })
+  }
 
   // 6. 求籤流程：抽籤 → 擲筊到聖筊 → 看解籤（笑/陰筊時重抽，最多 20 輪必中）
   await page.goto(`${BASE_URL}#lukang/draw`)

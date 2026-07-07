@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { temples, getTemple } from '../content/temples'
 import { useApp } from '../state'
 import { dailyLot } from '../lib/daily'
-import { getLot } from '../content'
+import { getLot, lotsByTemple } from '../content'
 import { searchLots } from '../lib/search'
 
 export function Home() {
@@ -23,7 +23,9 @@ export function Home() {
       </section>
 
       <section className="temple-cards">
-        {temples.map((t) => (
+        {temples
+          .filter((t) => lotsByTemple[t.id].length > 0)
+          .map((t) => (
           <div key={t.id} className={`temple-card temple-${t.id}`}>
             <h3>{t.name}</h3>
             <p className="temple-system">
