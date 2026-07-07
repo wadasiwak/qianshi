@@ -35,7 +35,7 @@ export interface Lot {
   title?: string // 明治神宮和歌題（心、誠…）
   official?: Record<string, string> // 鹿港官方十類批註（功名…田畜）
   modern: string // 白話總解
-  categories: Record<CategoryKey, string> // 分類解讀（大御心不分類，空物件）
+  categories: Partial<Record<CategoryKey, string>> // 分類解讀（大御心不分類，空物件）
 }
 
 export type TempleId = 'lukang' | 'xingtian' | 'meiji'

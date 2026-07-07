@@ -14,7 +14,7 @@ export default function App() {
         <h1 className="clickable" onClick={() => go({ name: 'home' })}>
           解籤
         </h1>
-        <span className="header-sub">鹿港天后宮・行天宮</span>
+        <span className="header-sub">鹿港天后宮・行天宮・明治神宮</span>
       </header>
 
       {view.name === 'home' && <Home />}

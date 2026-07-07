@@ -1,0 +1,595 @@
+[
+  {
+    "id": 1,
+    "name": "明治天皇御製",
+    "title": "神祇",
+    "level": "",
+    "poem": [
+      "目に見えぬ",
+      "神にむかひて",
+      "はぢざるは",
+      "人の心の",
+      "まことなりけり"
+    ],
+    "traditional": "",
+    "modern": "面對眼睛看不見的神明也毫無愧色，那便是人心中的真誠。這首御歌提醒我們：無人看見的時候也行得端正，這份問心無愧，就是一個人最踏實的底氣；帶著真誠待人處事，走到哪裡都不必心虛。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://note.com/fu9da/n/n857b269a5b74",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ],
+    "notes": "與 Wikisource《明治天皇御集》逐字一致。另有歌碑異表記「目の見えぬ神に向ひて耻ざるは」，御籤版採「目に見えぬ…はぢざるは」。題「神祇」；nagomeru 及 hello-alpine 轉錄作「神衹」，屬字形訛，正字為「祇」。"
+  },
+  {
+    "id": 2,
+    "name": "昭憲皇太后御歌",
+    "title": "慎独",
+    "level": "",
+    "poem": [
+      "人しれず",
+      "思ふこころの",
+      "よしあしも",
+      "照し分くらむ",
+      "天地のかみ"
+    ],
+    "traditional": "",
+    "modern": "藏在心底、無人知曉的念頭，是善是惡，天地神明都照得分明。這首御歌講的是「慎獨」的功夫：獨處時的起心動念也別放任，把暗處的心念收拾乾淨，明處的言行自然端正，路也走得安穩。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://byakko.info/news/?p=2266",
+      "https://hello-alpine.com/meiji-jingu-omikuji/"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "明治天皇御製",
+    "title": "述懐",
+    "level": "",
+    "poem": [
+      "かたしとて",
+      "思ひたゆまば",
+      "なにごとも",
+      "なることあらじ",
+      "人のよの中"
+    ],
+    "traditional": "",
+    "modern": "若因為事情困難就心生退意、鬆懈下來，那麼在這人世間，便沒有一件事能夠做成。困難本身不是放棄的理由；覺得難的時候，先別急著下結論，願意再撐一步、再試一次的人，才走得到終點。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://sekihi.net/stones/37508",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "昭憲皇太后御歌",
+    "title": "人",
+    "level": "",
+    "poem": [
+      "人はただ",
+      "すなほならなむ",
+      "呉竹の",
+      "世にたちこえむ",
+      "ふしはなくとも"
+    ],
+    "traditional": "",
+    "modern": "人啊，最要緊的是心地坦率正直；縱使沒有如修竹拔節般高出世間的過人才華，也無妨。才華是其次，率直的心才是立身的根本——少一點虛飾與計較，人與人之間的信任反而自然生長。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://plaza.rakuten.co.jp/kajiro/diary/200603150000/"
+    ],
+    "notes": "第三句「呉竹の」依 nagomeru 與樂天部落格；yoshihuku.com 轉錄作「若竹の」，屬少數異文，判為誤記。"
+  },
+  {
+    "id": 5,
+    "name": "明治天皇御製",
+    "title": "山",
+    "level": "",
+    "poem": [
+      "萬代の",
+      "国のしづめと",
+      "大空に",
+      "あふぐは富士の",
+      "たかねなりけり"
+    ],
+    "traditional": "",
+    "modern": "仰望聳立於長空的富士高嶺，它正是鎮守國家千秋萬代的存在。願我們心中也有一座這樣不動的高山：珍惜自己承接的根基與傳承，站得沉穩，日常的風雨紛擾便難以撼動你。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集",
+      "https://hello-alpine.com/meiji-jingu-omikuji/"
+    ],
+    "notes": "Wikisource《明治天皇御集》題「富士山」，「國」用舊字；御籤通行表記作「国」。"
+  },
+  {
+    "id": 6,
+    "name": "昭憲皇太后御歌",
+    "title": "心",
+    "level": "",
+    "poem": [
+      "むらぎもの",
+      "心にとひて",
+      "はぢざらば",
+      "よの人言は",
+      "いかにありとも"
+    ],
+    "traditional": "",
+    "modern": "捫心自問而無愧，那麼世人的閒言碎語，無論怎麼說，都不必掛懷。先過得了自己心裡那一關，再談別人的眼光；評價與流言聽聽就好，不必句句放在心上，你的方向由你的良心決定。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://kayanoballet.com/2022/07/09/"
+    ],
+    "notes": "表記差異：はぢざらば（歷史假名，採用）vs はじざらば；「よの人言」另見「世の人言」表記。"
+  },
+  {
+    "id": 7,
+    "name": "明治天皇御製",
+    "title": "折にふれて",
+    "level": "",
+    "poem": [
+      "さまざまの",
+      "うきふしをへて",
+      "呉竹の",
+      "よにすぐれたる",
+      "人とこそなれ"
+    ],
+    "traditional": "",
+    "modern": "歷經種種艱辛的關卡，人才能像修竹一般節節挺立，成為出類拔萃之人。眼前的難處正是竹子的「節」——撐過一節，就長高一截；別怕吃苦，那些熬過的日子都會成為你的骨架。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "http://k-gokoku.or.jp/monthly/2392",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "昭憲皇太后御歌",
+    "title": "心",
+    "level": "",
+    "poem": [
+      "日に三度",
+      "身をかへりみし",
+      "いにしへの",
+      "人のこころに",
+      "ならひてしがな"
+    ],
+    "traditional": "",
+    "modern": "但願能效法古人「吾日三省吾身」的心。每天留一點時間回望自己：今天有沒有對不起人？有沒有敷衍了事？小小的反省不是自責，而是最可靠的成長方式，日日拂拭，心就不蒙塵。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://yoshihuku.com/comment/1156/"
+    ],
+    "notes": "「かへりみし」為歷史假名表記（採用）；yoshihuku 作現代假名「かえりみし」。歌意本於《論語》曾子三省。"
+  },
+  {
+    "id": 9,
+    "name": "昭憲皇太后御歌",
+    "title": "折にふれて",
+    "level": "",
+    "poem": [
+      "世の中の",
+      "人におくれを",
+      "とりぬべし",
+      "すすまむときに",
+      "進まざりせば"
+    ],
+    "traditional": "",
+    "modern": "該前進的時候若不前進，就要落於世人之後了。機會來的時候別猶豫太久——想清楚了就果斷邁步，與時俱進、與人同行；遲疑觀望固然安全，卻常常錯過了真正該出手的那一刻。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://www.meijijingu.or.jp/goitsuwa/?id=1667980231-592663"
+    ],
+    "notes": "此歌屬昭憲皇太后「十二徳の御歌」之一（德目「決断」），明治神宮官網可證，作者為昭憲皇太后無疑；nagomeru 與 hello-alpine 兩來源均標 9 番為昭憲皇太后。因此全套實為明治天皇 14 首＋昭憲皇太后 16 首，與坊間常見「各 15 首」說法有出入。另見「進まむ時に」表記；chie1.hatenablog 一覽將 9 番標為明治天皇，該頁題名全不符官方題，不可信。"
+  },
+  {
+    "id": 10,
+    "name": "昭憲皇太后御歌",
+    "title": "耳",
+    "level": "",
+    "poem": [
+      "人ごとの",
+      "よきもあしきも",
+      "心して",
+      "きけばわが身の",
+      "為とこそなれ"
+    ],
+    "traditional": "",
+    "modern": "別人的話，無論是好話還是批評，只要用心去聽，都能化為自己的養分。讚美裡聽出方向，逆耳之言裡聽出提醒；把耳朵打開、把心放平，身邊的每一句話都可能是你的老師。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "http://nakameguro.jpn.org/imperial-rescript-on-education/gyosei-miuta/"
+    ],
+    "notes": "第二來源作全假名「こころして…ためとこそなれ」，採 nagomeru 之「心して」「為とこそなれ」表記；該頁現已下線。"
+  },
+  {
+    "id": 11,
+    "name": "明治天皇御製",
+    "title": "孝",
+    "level": "",
+    "poem": [
+      "たらちねの",
+      "親につかへて",
+      "まめなるが",
+      "人のまことの",
+      "始なりけり"
+    ],
+    "traditional": "",
+    "modern": "誠心誠意地侍奉父母，是人一切真誠的起點。對最親近的人都能用心，對世間的善意才有根；孝順不必轟轟烈烈，一通電話、一頓飯的惦記，就是真心最初的模樣。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "昭憲皇太后御歌",
+    "title": "鏡",
+    "level": "",
+    "poem": [
+      "朝ごとに",
+      "むかふ鏡の",
+      "くもりなく",
+      "あらまほしきは",
+      "心なりけり"
+    ],
+    "traditional": "",
+    "modern": "但願這顆心，能像每天清晨面對的鏡子一樣，不染塵霧、澄澈明亮。鏡子要天天擦，心也要常常整理——放下昨日的積怨與雜念，心鏡明亮了，看人看事才不會失真。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/sorasakufude/entry-12635798052.html"
+    ],
+    "notes": "第四句依 nagomeru 與 ameblo（引大阪府神社庁）作「あらまほしきは」；另見部落格誤記「あらまほしくは」。"
+  },
+  {
+    "id": 13,
+    "name": "明治天皇御製",
+    "title": "心",
+    "level": "",
+    "poem": [
+      "しのびても",
+      "あるべき時に",
+      "ともすれば",
+      "あやまつものは",
+      "心なりけり"
+    ],
+    "traditional": "",
+    "modern": "在本該忍耐的時刻，心卻往往按捺不住，於是出了差錯。人的過失多半敗在一時衝動；情緒上來的那一刻，先停一拍、深一口氣，許多錯誤就止於未發，忍得住的人才守得住局面。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "昭憲皇太后御歌",
+    "title": "述懐",
+    "level": "",
+    "poem": [
+      "あやまたむ",
+      "ことを思へば",
+      "かりそめの",
+      "ことにも物は",
+      "つつしまれつつ"
+    ],
+    "traditional": "",
+    "modern": "一想到可能出錯，即便是一時的瑣事，也自然而然謹慎起來。小事上的用心不是拘謹，而是不給遺憾留門縫；越是覺得「這點小事沒關係」的時候，越值得多看一眼、多想一步。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/colorhiyori/entry-10872077588.html"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "明治天皇御製",
+    "title": "心",
+    "level": "",
+    "poem": [
+      "いかならむ",
+      "ことある時も",
+      "うつせみの",
+      "人の心よ",
+      "ゆたかならなむ"
+    ],
+    "traditional": "",
+    "modern": "無論遭逢什麼樣的變故，願世人的心都能保持寬裕從容。意外與變化本是人生常態；心有餘裕，遇事才有轉圜——慌了手腳往往比事情本身更傷人，穩住心，天大的事也有路可走。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "昭憲皇太后御歌",
+    "title": "勤労",
+    "level": "",
+    "poem": [
+      "みがかずば",
+      "玉の光は",
+      "いでざらむ",
+      "人のこころも",
+      "かくこそあるらし"
+    ],
+    "traditional": "",
+    "modern": "玉石不經琢磨，便不會綻放光芒；人的心，想來也是如此。天分再好，也要靠日復一日的磨練才會發亮——勤勉就是最好的拋光，今天多下的一分功夫，都在悄悄替你積蓄光彩。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://www.meijijingu.or.jp/goitsuwa/?id=1667980231-592663"
+    ],
+    "notes": "此歌為昭憲皇太后「十二徳の御歌」之「勤労」，與另一首名歌「みがかずば玉も鏡も何かせむ…」不同，勿混淆。"
+  },
+  {
+    "id": 17,
+    "name": "明治天皇御製",
+    "title": "日",
+    "level": "",
+    "poem": [
+      "さしのぼる",
+      "朝日のごとく",
+      "さはやかに",
+      "もたまほしきは",
+      "心なりけり"
+    ],
+    "traditional": "",
+    "modern": "但願擁有一顆如初升朝日般清爽明朗的心。每一天都是新的：帶著朝氣開始，心亮了，手上的事也跟著順；昨日的陰霾就留給昨日，像日出一樣，乾乾淨淨地重新升起。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ],
+    "notes": "籤面表記「さはやかに」（歷史假名）；Wikisource《明治天皇御集》作「さわやかに」，其餘逐字一致。"
+  },
+  {
+    "id": 18,
+    "name": "昭憲皇太后御歌",
+    "title": "沈黙",
+    "level": "",
+    "poem": [
+      "すぎたるは",
+      "及ばざりけり",
+      "かりそめの",
+      "言葉もあだに",
+      "ちらさざらなむ"
+    ],
+    "traditional": "",
+    "modern": "過猶不及——但願連隨口的話語，也不要輕率地拋撒出去。話說得多，未必說得進人心裡；說得少而準，勝過說得多而散。該沉默的時候安然沉默，言語自有分量。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/iyashi-color/entry-12430873151.html"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "明治天皇御製",
+    "title": "巌上松",
+    "level": "",
+    "poem": [
+      "あらし吹く",
+      "世にも動くな",
+      "人ごころ",
+      "いはほに根ざす",
+      "松のごとくに"
+    ],
+    "traditional": "",
+    "modern": "縱使世間風暴呼嘯，人心也不要動搖——要像紮根於巨岩的松樹那樣。外界越是動盪，越要守住自己的根；環境與潮流變來變去，你心裡認定的價值若站得穩，風再大也吹不倒你。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ja.wikisource.org/wiki/明治天皇御集"
+    ],
+    "notes": "Wikisource 作「人ごゝろ」（踊り字）、題作舊字「巖上松」；籤面通行表記為「人ごころ」「巌上松」。"
+  },
+  {
+    "id": 20,
+    "name": "昭憲皇太后御歌",
+    "title": "謙遜",
+    "level": "",
+    "poem": [
+      "高山の",
+      "かげをうつして",
+      "ゆく水の",
+      "ひききにつくを",
+      "心ともがな"
+    ],
+    "traditional": "",
+    "modern": "願此心如流水：映照著高山的身影，自己卻甘於流向低處。心裡懷著高遠的理想，身段依然謙和低調——格局在心不在姿態；放低自己的人，反而映得出最高的山。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://www.meijijingu.or.jp/goitsuwa/?id=1667980231-592663"
+    ],
+    "notes": "明治神宮官網「十二徳の御歌」同歌德目作「謙虚」、本文作「低きにつくを」（讀音同）；大御心籤面為假名表記「ひききにつくを」。"
+  },
+  {
+    "id": 21,
+    "name": "明治天皇御製",
+    "title": "道",
+    "level": "",
+    "poem": [
+      "ならび行く",
+      "人にはよしや",
+      "おくるとも",
+      "ただしき道を",
+      "ふみなたがへそ"
+    ],
+    "traditional": "",
+    "modern": "縱然落後於並肩同行的人，也不要偏離正道一步。走得慢不要緊，走歪才是真正的損失；別為了趕上別人的進度而抄捷徑，守住正路的人，最後走得最遠也最安心。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/pururu-koubou/entry-11742152794.html"
+    ],
+    "notes": "第二來源（大御心日めくり抄録）表記作「ならびゆく…ただしきみちを」，為假名表記差，同一首。"
+  },
+  {
+    "id": 22,
+    "name": "昭憲皇太后御歌",
+    "title": "寧静",
+    "level": "",
+    "poem": [
+      "いかさまに",
+      "身はくだくとも",
+      "むらぎもの",
+      "心はゆたに",
+      "あるべかりけり"
+    ],
+    "traditional": "",
+    "modern": "不管身體如何操勞奔波，心都應當保持寬和從容。再怎麼拚，也要留住內心那一方安穩——寧靜不是懶散，而是撐得長久的本錢；身體可以忙，心不要跟著碎。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://www.meijijingu.or.jp/goitsuwa/?id=1667980231-592663"
+    ],
+    "notes": "此歌為昭憲皇太后「十二徳の御歌」之「寧静」，明治神宮官網逐字一致。"
+  },
+  {
+    "id": 23,
+    "name": "明治天皇御製",
+    "title": "誠",
+    "level": "",
+    "poem": [
+      "とき遅き",
+      "たがひはあれど",
+      "つらぬかぬ",
+      "ことなきものは",
+      "誠なりけり"
+    ],
+    "traditional": "",
+    "modern": "見效或早或晚，各有不同；但真誠，沒有貫通不了的事。真心誠意也許回應得慢，卻終究會抵達人心——別因一時沒有回音就懷疑初衷，誠這條路，走下去必有回聲。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/colorhiyori/entry-10440786268.html"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "昭憲皇太后御歌",
+    "title": "智",
+    "level": "",
+    "poem": [
+      "おこたりて",
+      "磨かざりせば",
+      "光ある",
+      "玉も瓦も",
+      "ひとしからまし"
+    ],
+    "traditional": "",
+    "modern": "若因怠惰而不加磨琢，本可發光的美玉，也與瓦片無異。資質再好也怕荒廢；智慧不是天生擺在那裡的，而是靠不間斷的學習與修煉磨出來的——持續打磨，才守得住自己的光。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://www.planetkk.net/大御心（おおみごころ）/"
+    ],
+    "notes": "第四句表記異文：nagomeru 作「玉も瓦も」，planetkk 及日めくり抄録作「玉も瓦に」，兩系並存，籤紙實際用字未能以第三來源裁定。"
+  },
+  {
+    "id": 25,
+    "name": "明治天皇御製",
+    "title": "天",
+    "level": "",
+    "poem": [
+      "あさみどり",
+      "澄みわたりたる",
+      "大空の",
+      "広きをおのが",
+      "心ともがな"
+    ],
+    "traditional": "",
+    "modern": "但願自己的心，能像澄澈淺碧、一望無際的天空那般遼闊。心寬了，人與事都容得下：不順眼的人給他一點空間，不如意的事給它一點時間——胸襟開闊，路自然跟著開闊。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/pururu-koubou/entry-11742152794.html"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "昭憲皇太后御歌",
+    "title": "義",
+    "level": "",
+    "poem": [
+      "茂りたる",
+      "うばらからたち",
+      "払ひても",
+      "ふむべき道は",
+      "ゆくべかりけり"
+    ],
+    "traditional": "",
+    "modern": "即使要撥開叢生的荊棘與枸橘，該走的路，仍要走下去。正確的事往往帶刺——會有阻力、會被扎手，但只要認定那是該行的道，就值得動手撥開障礙、堅持前行。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://forestlog.jp/meijijingu-12"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "明治天皇御製",
+    "title": "峯",
+    "level": "",
+    "poem": [
+      "大空に",
+      "そびえて見ゆる",
+      "たかねにも",
+      "登ればのぼる",
+      "道はありけり"
+    ],
+    "traditional": "",
+    "modern": "即便是高聳入雲、望之生畏的峰頂，只要肯攀登，就有登上去的路。目標看著遙不可及，其實路就在腳下——別被高度嚇退，一步一步往上走，山再高也有頂。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/hirohirotag/entry-10756521388.html"
+    ],
+    "notes": "題表記「峯」（nagomeru）與「峰」（部分來源）並見。"
+  },
+  {
+    "id": 28,
+    "name": "昭憲皇太后御歌",
+    "title": "衛生",
+    "level": "",
+    "poem": [
+      "かりそめの",
+      "ことは思はで",
+      "くらすこそ",
+      "世にながらへむ",
+      "薬なるらめ"
+    ],
+    "traditional": "",
+    "modern": "不為瑣碎小事煩心地過日子，正是長久健在於世的良藥。許多消耗，其實來自不值一提的掛慮；把心放寬、把小事放下，好好吃飯睡覺，就是最實在的養生。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://ameblo.jp/pururu-koubou/entry-11742152794.html"
+    ],
+    "notes": "日めくり版「おもはで」為假名表記差。"
+  },
+  {
+    "id": 29,
+    "name": "明治天皇御製",
+    "title": "水",
+    "level": "",
+    "poem": [
+      "器には",
+      "したがひながら",
+      "いはがねも",
+      "とほすは水の",
+      "ちからなりけり"
+    ],
+    "traditional": "",
+    "modern": "水順著器皿改變自己的形狀，卻也能滴穿磐石——這正是水的力量。柔軟不等於軟弱：能配合環境、能屈能伸，同時日復一日不放棄地滴下去，再硬的難關也終會被貫通。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://smilekayo.exblog.jp/24044333/"
+    ],
+    "notes": "籤面多用假名表記（したがひ／いはがね／とほす）；漢字表記另見「器には従ひながら岩がねも通すは水の力なりけり」。"
+  },
+  {
+    "id": 30,
+    "name": "昭憲皇太后御歌",
+    "title": "糸",
+    "level": "",
+    "poem": [
+      "一すぢの",
+      "その糸ぐちも",
+      "たがふれば",
+      "もつれもつれて",
+      "とくよしぞなき"
+    ],
+    "traditional": "",
+    "modern": "一縷線，若找錯了線頭，就會越纏越亂，再也解不開。事情糾結的時候別急著硬扯——先靜下來，看清問題真正的起點，從對的頭緒慢慢理起；找對源頭，亂麻自解。",
+    "sources": [
+      "https://nagomeru.com/meijijinngu-omikuji/",
+      "https://note.com/makotoshirasu/n/ndec7f1d6de94"
+    ]
+  }
+]
