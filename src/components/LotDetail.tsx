@@ -58,8 +58,11 @@ export function LotDetail({
         <div className="poem-head">
           <span className="poem-no">
             {info.name}・第{lot.id}首{lot.name && `・${lot.name}`}
+            {lot.title && `・「${lot.title}」`}
           </span>
-          <span className={`level-badge tone-${levelTone(lot.level)}`}>{lot.level}</span>
+          {lot.level && (
+            <span className={`level-badge tone-${levelTone(lot.level)}`}>{lot.level}</span>
+          )}
         </div>
         {/* 直式籤詩：四句由右至左 */}
         <div className="poem-vertical">
@@ -100,7 +103,7 @@ export function LotDetail({
         </section>
       )}
 
-      {lot.categories && (
+      {CATEGORY_KEYS.some((key) => lot.categories?.[key]) && (
         <section className="block">
           <h3>分類解讀</h3>
           <div className="categories">

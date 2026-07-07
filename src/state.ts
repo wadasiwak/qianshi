@@ -32,7 +32,7 @@ export function viewToHash(view: View): string {
 
 export function hashToView(hash: string): View {
   const m = hash.replace(/^#/, '').split('/')
-  const temple = m[0] === 'lukang' || m[0] === 'xingtian' ? m[0] : null
+  const temple = m[0] === 'lukang' || m[0] === 'xingtian' || m[0] === 'meiji' ? m[0] : null
   if (!temple) return { name: 'home' }
   if (m[1] === 'draw') return { name: 'draw', temple }
   const id = Number(m[1])

@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import type { TempleId } from '../content/types'
-import { getTemple } from '../content/temples'
+import { getTemple, noJiao } from '../content/temples'
 import { useApp } from '../state'
 import { drawLotId, throwJiao, jiaoMeaning, type JiaoResult } from '../lib/draw'
 
@@ -75,10 +75,24 @@ export function DrawFlow({ temple }: { temple: TempleId }) {
           <div className="drawn-stick">
             <span className="drawn-no">第 {step.id} 首</span>
           </div>
-          <p className="draw-guide">抽到一支籤。擲筊請示神明，這支籤是否合你所問？</p>
-          <button className="btn primary big" onClick={() => askJiao(step.id)}>
-            擲筊
-          </button>
+          {noJiao[temple] ? (
+            <>
+              <p className="draw-guide">御歌一首，贈你今日的心法。</p>
+              <button
+                className="btn primary big"
+                onClick={() => openLot(temple, step.id, question.trim() || undefined)}
+              >
+                拜見大御心 →
+              </button>
+            </>
+          ) : (
+            <>
+              <p className="draw-guide">抽到一支籤。擲筊請示神明，這支籤是否合你所問？</p>
+              <button className="btn primary big" onClick={() => askJiao(step.id)}>
+                擲筊
+              </button>
+            </>
+          )}
         </section>
       )}
 

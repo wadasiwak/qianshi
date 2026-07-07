@@ -36,9 +36,16 @@ function checkTemple(file, label, expected, opts = {}) {
     if (seen.has(lot.id)) err(`${tag}: id 重複`)
     seen.add(lot.id)
     if (!(lot.id >= 1 && lot.id <= expected)) err(`${tag}: id 超出範圍`)
-    if (!Array.isArray(lot.poem) || lot.poem.length !== 4) err(`${tag}: 籤詩不是四句`)
-    else if (lot.poem.some((p) => !p || p.length < 5)) err(`${tag}: 有過短的句子`)
-    if (!lot.level) err(`${tag}: 缺吉凶等第`)
+    if (opts.waka) {
+      // 和歌：分句數不定，只驗非空
+      if (!Array.isArray(lot.poem) || lot.poem.length < 2 || lot.poem.some((p) => !p)) {
+        err(`${tag}: 和歌分句異常`)
+      }
+    } else {
+      if (!Array.isArray(lot.poem) || lot.poem.length !== 4) err(`${tag}: 籤詩不是四句`)
+      else if (lot.poem.some((p) => !p || p.length < 5)) err(`${tag}: 有過短的句子`)
+      if (!lot.level) err(`${tag}: 缺吉凶等第`)
+    }
     if (opts.traditional && !lot.traditional) err(`${tag}: 缺傳統解曰`)
     if (opts.official) {
       for (const key of OFFICIAL_KEYS) {
@@ -46,17 +53,20 @@ function checkTemple(file, label, expected, opts = {}) {
       }
     }
     if (!lot.modern) err(`${tag}: 缺白話總解`)
-    for (const key of CATEGORY_KEYS) {
-      if (!lot.categories?.[key]) err(`${tag}: 缺分類解讀「${key}」`)
+    if (!opts.waka) {
+      for (const key of CATEGORY_KEYS) {
+        if (!lot.categories?.[key]) err(`${tag}: 缺分類解讀「${key}」`)
+      }
     }
   }
 }
 
 checkTemple('lukang.ts', '鹿港', 100, { official: true })
 checkTemple('xingtian.ts', '行天宮', 100, { traditional: true })
+checkTemple('meiji.ts', '明治神宮', 30, { waka: true })
 
 if (errors) {
   console.error(`\n共 ${errors} 個問題`)
   process.exit(1)
 }
-console.log('✓ 內容檢查通過：鹿港 100 首 + 行天宮 100 首，欄位齊全')
+console.log('✓ 內容檢查通過：鹿港 100 + 行天宮 100 + 明治神宮 30，欄位齊全')

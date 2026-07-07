@@ -27,17 +27,18 @@ export const OFFICIAL_KEYS = [
 
 export interface Lot {
   id: number // 第幾首
-  name: string // 行天宮：干支組合（甲甲…）；鹿港一百籤無名，留空
-  level: string // 吉凶等第（大吉／上上／上中／中平／下下…）
-  poem: string[] // 四句籤詩原文
-  traditional: string // 傳統聖意／解曰古文（行天宮有；鹿港無，留空）
+  name: string // 行天宮：干支組合（甲甲…）；明治神宮：御製／御歌；鹿港一百籤無名，留空
+  level: string // 吉凶等第（大吉／上上／中平／下下…；大御心無吉凶，留空）
+  poem: string[] // 籤詩原文（漢籤四句；和歌依分句）
+  traditional: string // 傳統聖意／解曰古文（行天宮有；其餘留空）
   story?: string // 籤詩典故
+  title?: string // 明治神宮和歌題（心、誠…）
   official?: Record<string, string> // 鹿港官方十類批註（功名…田畜）
   modern: string // 白話總解
-  categories: Record<CategoryKey, string> // 分類解讀
+  categories: Record<CategoryKey, string> // 分類解讀（大御心不分類，空物件）
 }
 
-export type TempleId = 'lukang' | 'xingtian'
+export type TempleId = 'lukang' | 'xingtian' | 'meiji'
 
 export interface Temple {
   id: TempleId

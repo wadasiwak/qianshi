@@ -78,6 +78,7 @@ body {
 }
 
 .temple-card.temple-xingtian { border-top-color: var(--accent); }
+.temple-card.temple-meiji { border-top-color: #5a8a5f; }
 .temple-card h3 { margin: 0 0 4px; font-size: 20px; letter-spacing: 3px; color: var(--accent); }
 .temple-system { color: var(--text); font-size: 14px; margin: 4px 0; }
 .temple-deity { color: var(--text-dim); font-size: 13px; margin: 2px 0 8px; }
@@ -244,21 +245,24 @@ body {
 .level-badge.tone-mid { color: var(--mid); border-color: var(--mid); }
 .level-badge.tone-poor { color: var(--poor); border-color: var(--poor); }
 
-/* 直式籤詩：writing-mode 縱排，由右至左，仿籤紙 */
+/* 直式籤詩：每句一欄縱排、由右至左（row-reverse），仿籤紙 */
 .poem-vertical {
-  writing-mode: vertical-rl;
-  margin: 18px auto 10px;
   display: flex;
+  flex-direction: row-reverse;
   justify-content: center;
-  gap: 18px;
-  min-height: 240px;
+  gap: 26px;
+  margin: 22px auto 14px;
   font-size: 21px;
-  letter-spacing: 8px;
   line-height: 1;
   color: #f3e2c7;
 }
 
-.poem-vertical p { margin: 0; white-space: nowrap; }
+.poem-vertical p {
+  writing-mode: vertical-rl;
+  margin: 0;
+  white-space: nowrap;
+  letter-spacing: 9px;
+}
 .poem-story { color: var(--text-dim); font-size: 13px; text-align: center; margin: 6px 0 2px; }
 
 .block { margin: 18px 0; }
@@ -422,6 +426,7 @@ body {
 .app-footer p { margin: 4px 0; }
 
 @media (max-width: 480px) {
-  .poem-vertical { font-size: 18px; letter-spacing: 6px; gap: 14px; min-height: 200px; }
+  .poem-vertical { font-size: 18px; gap: 18px; }
+  .poem-vertical p { letter-spacing: 7px; }
   .number-input input { width: 140px; }
 }

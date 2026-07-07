@@ -33,7 +33,7 @@ function loadInterps(prefix) {
 }
 
 function emit(varName, comment, lots, outFile) {
-  const interps = loadInterps(varName === 'lukangLots' ? 'lukang' : 'xingtian')
+  const interps = loadInterps(varName.replace('Lots', ''))
   const merged = lots.map((l) => {
     const extra = interps.get(l.id) ?? {}
     return {
@@ -43,8 +43,10 @@ function emit(varName, comment, lots, outFile) {
       poem: l.poem ?? [],
       traditional: l.traditional ?? '',
       ...(l.story ? { story: l.story } : {}),
+      ...(l.title ? { title: l.title } : {}),
       ...(l.official ? { official: l.official } : {}),
-      modern: extra.modern ?? '',
+      // 大御心的 modern 直接寫在原始檔；漢籤的 modern 來自 interpretations/
+      modern: l.modern ?? extra.modern ?? '',
       categories: extra.categories ?? {},
     }
   })
@@ -72,4 +74,10 @@ emit(
   '行天宮百首籤（100 首）。',
   loadChunks('xingtian-'),
   join(root, 'src/content/xingtian.ts'),
+)
+emit(
+  'meijiLots',
+  '明治神宮大御心（30 首御歌籤）。',
+  loadChunks('meiji-'),
+  join(root, 'src/content/meiji.ts'),
 )
