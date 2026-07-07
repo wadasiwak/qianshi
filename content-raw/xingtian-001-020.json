@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "甲甲",
+    "level": "大吉",
+    "poem": [
+      "巍巍獨步向雲間",
+      "玉殿千官第一班",
+      "富貴榮華天付汝",
+      "福如東海壽如山"
+    ],
+    "traditional": "聖意：功名遂。福祿全。訟得理。病即痊。桑麻熟。婚姻圓。孕生子。行人還。\n解曰：謀望事緒，無不遂意，但各有所主。官員占此，有超越之喜；士人有功名之慶。占前程者，福壽綿長；占事業者，根基穩固。若謀望求財，多主有名無實，為語多空虛也。",
+    "story": "漢高祖入關",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211720571.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=1",
+      "https://fate.superd.org/1/",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot1"
+    ],
+    "notes": "聖意「婚姻圓」依行天宮官方圖檔與 fate.superd；temple01 作「婚姻聯」。fate.superd 典故另列「十八學士登瀛洲」為第二典故。temple01 解曰首句多「此籤」且作「官員占茲」、「庶人不吉」，與官方版解曰文字不同，本檔解曰以官方圖檔為準。"
+  },
+  {
+    "id": 2,
+    "name": "甲乙",
+    "level": "上吉",
+    "poem": [
+      "盈虛消息總天時",
+      "自此君當百事宜",
+      "若問前程歸縮地",
+      "須憑方寸好修為"
+    ],
+    "traditional": "聖意：訟宜和。病宜禱。功名有。遲莫躁。求財平。問婚好。若妄為。身莫保。\n解曰：前運不佳，前事蹭蹬，自此以後，漸見順利。若問究竟歸結，全在存心種德，方得成實。倘值境遇遂意，頓忘前因，暗損心術，必至有始無終，自貽後悔，勉之慎之。",
+    "story": "張子房遊赤松",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211727041.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=2",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot2"
+    ],
+    "notes": "第四句行天宮官方圖檔作「須憑方寸好修為」；temple01 等他版作「更須方寸好修為」。"
+  },
+  {
+    "id": 3,
+    "name": "甲丙",
+    "level": "中吉",
+    "poem": [
+      "衣食自然生處有",
+      "勸君不用苦勞心",
+      "但能孝悌存忠信",
+      "福祿來成禍不侵"
+    ],
+    "traditional": "聖意：問名利。自有時。訟和吉。產尚遲。病可治。婚未宜。宜謹守。免憂疑。\n解曰：只宜守舊，不可貪求，但存中直，卻得兩平。須以孝悌忠信為本，自有福祿來成之應。若思強取強求，反招意外之禍。占者循理守分則吉。",
+    "story": "賈誼遇漢文帝",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211727231.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=3",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot3"
+    ],
+    "notes": "temple01 第三句「孝梯」為「孝悌」之誤植。聖意行天宮官方圖檔作「產尚遲。病可治。」，temple01 作「病瘥遲，求財平」，以官方為準。"
+  },
+  {
+    "id": 4,
+    "name": "甲丁",
+    "level": "下下",
+    "poem": [
+      "去年百事可相宜",
+      "若較今年時運衰",
+      "好把瓣香告神佛",
+      "莫教福謝悔無追"
+    ],
+    "traditional": "聖意：功名滯。求祿輕。訟不宜。婚難成。病難癒。行阻程。若求吉。禱神明。\n解曰：吉事已去，凶禍將來，官事臨身，是非自至。凡事謀望不成，求財交易不就，所為皆不利。急宜祈禱神明，積德回天，庶不致貽後悔耳。",
+    "story": "小秦王三跳澗",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211727391.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=4",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot4"
+    ],
+    "notes": "首句行天宮官方圖檔作「去年百事可相宜」；temple01 等他版作「頗相宜」。等第官方作「下下」，temple01/brady 作「下吉」。聖意官方作「功名滯。求祿輕。訟不宜。婚難成。」，temple01 作「功名無。財祿輕。訟宜息。婚未成。」，以官方為準。"
+  },
+  {
+    "id": 5,
+    "name": "甲戊",
+    "level": "中平",
+    "poem": [
+      "子有三般不自由",
+      "門庭蕭索冷如秋",
+      "若逢牛鼠交承日",
+      "萬事回春不用憂"
+    ],
+    "traditional": "聖意：財祿耗。功名遲。訟終吉。病可醫。婚宜慎。行人歸。待時至。百事宜。\n解曰：先憂後喜。見事主意不定，進退無據，景況甚為冷落。等子丑交承之際，遠應年分，近應月日，自有更新氣象，如春來萬物發生，比前大不相同。凡事待時，終有成就。",
+    "story": "呂蒙正守困",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211727561.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=5",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot5"
+    ],
+    "notes": "聖意行天宮官方圖檔作「婚宜慎」；temple01 作「婚宜審」。"
+  },
+  {
+    "id": 6,
+    "name": "甲己",
+    "level": "下下",
+    "poem": [
+      "何勞鼓瑟更吹笙",
+      "寸步如登萬里程",
+      "彼此懷疑不相信",
+      "休將私意憶濃情"
+    ],
+    "traditional": "聖意：功名無。財祿散。病難痊。防產難。婚不成。訟未判。行人遲。空嗟嘆。\n解曰：謂之陽為君子，陰為小人，須防有面是背非之人，從此簸弄。彼既懷疑不信，前此濃情，今已中變，何用私意繫戀，自取煩惱。凡事撥開迷妄則吉。",
+    "story": "相如完璧歸趙",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211729041.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=6",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot6"
+    ],
+    "notes": "等第官方作「下下」，temple01/brady 作「下平」。聖意末句官方作「空嗟嘆」，temple01 作「休嗟嘆」。解曰首句「謂之陽為君子」係照官方圖檔逐字錄（已放大複核），他版或作「易謂陽為君子」。"
+  },
+  {
+    "id": 7,
+    "name": "甲庚",
+    "level": "大吉",
+    "poem": [
+      "仙風道骨本天生",
+      "又遇仙宗為主盟",
+      "指日丹成謝巖谷",
+      "一朝引領向天行"
+    ],
+    "traditional": "聖意：圖名遂。求財豐。訟得理。病不凶。行人至。夢飛熊。陰地吉。婚姻全。\n解曰：此籤貴人占之，有薦拔之喜；士人占之，有飛騰之兆；庶人占之，有百倍之利；方外占之，有仙昇之期；病患占之，有醫藥之緣。亦恐有正應反應不同，占者審之。",
+    "story": "洞賓煉丹",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211729241.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=7",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot7"
+    ],
+    "notes": "聖意末句官方作「婚姻全」；temple01 作「婚姻仝」（仝為全之異體）。"
+  },
+  {
+    "id": 8,
+    "name": "甲辛",
+    "level": "上上",
+    "poem": [
+      "年來耕稼苦無收",
+      "今歲田疇定有秋",
+      "況遇太平無事日",
+      "士農工賈百無憂"
+    ],
+    "traditional": "聖意：士領薦。人獲財。訟則解。病無災。問行人。即便回。謀望吉。喜慶來。\n解曰：宜安常守分。前雖困頓，今漸有成。譬如田疇，既有荒歉，亦有豐收。幸處光天化日之下，農工商賈，共享昇平，何憂之有。凡事安享自然，時日以秋季為斷。",
+    "story": "大舜耕歷山",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211729431.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=8",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot8"
+    ],
+    "notes": "聖意官方圖檔作「訟則解」；temple01 作「訟即解」。"
+  },
+  {
+    "id": 9,
+    "name": "甲壬",
+    "level": "大吉",
+    "poem": [
+      "望渠消息向長安",
+      "常把菱花仔細看",
+      "見說文書將入境",
+      "今朝喜色上眉端"
+    ],
+    "traditional": "聖意：名與利。必到頭。訟即勝。病即瘳。孕生男。婚可求。行人至。百無憂。\n解曰：謀為之事，旦夕喜音。若問行人，旦夕即至。婚姻和合，疾病回頭，士子科名捷報，仕宦得位超遷。叩問運程，即見好消息也。",
+    "story": "宋太祖陳橋即位",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211731491.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=9",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot9"
+    ],
+    "notes": "等第行天宮官方作「大吉」；temple01/brady 作「上吉」。聖意官方作「必到頭。訟即勝。」，temple01 作「必至頭。訟必勝。」，以官方為準。"
+  },
+  {
+    "id": 10,
+    "name": "甲癸",
+    "level": "下下",
+    "poem": [
+      "病患時時命蹇衰",
+      "何須打瓦共鑽龜",
+      "直教重見一陽後",
+      "始可求神仗佛持"
+    ],
+    "traditional": "聖意：名難圖。財祿失。行人遲。訟未息。病留連。求神佑。莫貪求。宜守舊。\n解曰：大意曉然。凡有前惡，須宜求神懺悔。若問病訟，冬至後方可，不然莫解。若作非為，禍患立至。占者守分修省可保。",
+    "story": "冉伯牛染病",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211732501.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=10",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot10"
+    ],
+    "notes": "第三句行天宮官方圖檔作「直教重見一陽後」；temple01 作「宜教重見一陽復」。等第官方作「下下」，temple01/brady 作「下吉」。"
+  },
+  {
+    "id": 11,
+    "name": "乙甲",
+    "level": "下下",
+    "poem": [
+      "今年好事一番新",
+      "富貴榮華萃汝身",
+      "誰識機關難料處",
+      "到頭獨立轉傷神"
+    ],
+    "traditional": "聖意：莫貪求。名未遂。財祿平。訟不利。病者凶。事不濟。問行人。多阻滯。\n解曰：先吉後凶，先實後虛，先熱鬧，後落陷，先稠密，後妒害。識透機關，須是平氣忍受，善自解脫。不可急躁生事，更加纏縛，獨立傷神。明是小人結黨，君子守正，孤立無與，靜以需之，困可亨，否可泰也。反此則凶。",
+    "story": "韓信功勞不久",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211738501.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=11",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot11"
+    ],
+    "notes": "第三句行天宮官方圖檔作「誰識機關難料處」；temple01 作「誰道機關難料處」。等第官方作「下下」，temple01/brady 作「下吉」。解曰「靜以需之」（需卦之需）係照官方圖檔逐字錄。"
+  },
+  {
+    "id": 12,
+    "name": "乙乙",
+    "level": "中平",
+    "poem": [
+      "營為期望在春前",
+      "誰料秋來又不然",
+      "直遇清江貴公子",
+      "一生活計始安全"
+    ],
+    "traditional": "聖意：求名遲。財未至。病改醫。訟宜息。行人歸。孕生貴。有所遇。方吉利。\n解曰：幾番謀望，事與願違，屢次相左。然遇合有定，須在近江之地，或水旁姓名之人，必有格外投契。一生靠著此人，可保生計安全。此當關係夙緣，不可以有意求，只可以無意遇，莫之為而為，莫之致而致，靜以俟之可矣。",
+    "story": "蘇武牧羊",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211755391.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=12",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot12"
+    ],
+    "notes": "聖意行天宮官方圖檔作「訟宜息」「有所遇」；temple01 作「訟最忌」「顯宦遇」，以官方為準。"
+  },
+  {
+    "id": 13,
+    "name": "乙丙",
+    "level": "上吉",
+    "poem": [
+      "君今庚甲未亨通",
+      "且向江頭作釣翁",
+      "玉兔重生應發跡",
+      "萬人頭上逞英雄"
+    ],
+    "traditional": "聖意：時未亨。宜守舊。遇卯日。名利就。病遲癒。訟終利。行人歸。事終濟。\n解曰：現在時運未濟，且須安靜耐守，如彼江頭釣翁，何等閒散。宜待卯年月日，大有發跡。士子是時科第，仕宦是時陞遷，商賈是時得利，定有高壓萬人之勢，未可以泛常論也。",
+    "story": "姜太公釣魚",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211755561.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=13",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot13"
+    ],
+    "notes": "等第版本差異明顯：行天宮官方圖檔作「上吉」，temple01/brady 皆作「中平」，以行天宮為準。temple01 第四句「萬上頭上」為「萬人頭上」之誤植；聖意 temple01「守終利」「事緩濟」，官方作「訟終利」「事終濟」。"
+  },
+  {
+    "id": 14,
+    "name": "乙丁",
+    "level": "下下",
+    "poem": [
+      "一見佳人便喜歡",
+      "誰知去後有多般",
+      "人情冷暖君休訝",
+      "歷涉應知行路難"
+    ],
+    "traditional": "聖意：始雖易。終則難。名利失。病未安。訟反覆。孕生女。行未歸。事多阻。\n解曰：先喜後憂，不宜放肆。大概親而又疏，合而復離，歷涉險阻，竟無成就。兢兢業業，庶免後悔。",
+    "story": "郭華戀王月英",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403211756181.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=14",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot14"
+    ],
+    "notes": "典故 brady 作「郭華戀王月英」、temple01 作「胭脂記」，實為同一故事（《胭脂記》即郭華與王月英事）。brady 干支「乙下」為「乙丁」之誤植。等第官方作「下下」，temple01/brady 作「下吉」。"
+  },
+  {
+    "id": 15,
+    "name": "乙戊",
+    "level": "中平",
+    "poem": [
+      "兩家門戶各相當",
+      "不是姻緣莫較量",
+      "直待春風好消息",
+      "卻調琴瑟向蘭房"
+    ],
+    "traditional": "聖意：婚未合。訟未決。名利遠。音信缺。孕難生。防口舌。非知己。莫妄說。\n解曰：現在謀事，甚不相宜，看似機緣，終竟反覆，即宜捨此另圖，自有好處。春間定得信息，如婚姻前定自然和合。只可待時，不可妄為，時至自得成就耳。",
+    "story": "張君瑞憶鶯鶯",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220927271.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=15",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot15"
+    ],
+    "notes": "聖意行天宮官方圖檔作「名利遠」；temple01 作「名利遲」。"
+  },
+  {
+    "id": 16,
+    "name": "乙己",
+    "level": "下下",
+    "poem": [
+      "官事悠悠難辨別",
+      "不如息了且歸耕",
+      "旁人煽惑君休信",
+      "此事當謀親弟兄"
+    ],
+    "traditional": "聖意：訟難明。和為貴。名利無。行人至。婚未成。病有祟。財莫貪。終無利。\n解曰：不利訟事，以和為貴。凡事虛懸無著，憂疑不定，皆宜停止。恐有旁人慫恿，不可聽信，唯有商謀親密之人。骨肉之際，庶可免憂患耳，門內參商者宜戒之。",
+    "story": "王祥臥冰",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220927481.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=16",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot16"
+    ],
+    "notes": "首句行天宮官方圖檔作「難辨別」、第三句作「旁人」；temple01 作「難辨明」「傍人」。等第官方作「下下」，temple01/brady 作「下平」。"
+  },
+  {
+    "id": 17,
+    "name": "乙庚",
+    "level": "下下",
+    "poem": [
+      "田園價貫好商量",
+      "事到公庭彼此傷",
+      "縱使機關圖得勝",
+      "定為後世子孫殃"
+    ],
+    "traditional": "聖意：事悖理。訟必傷。名未濟。財平常。產勿謀。病宜禳。宜謹慎。保安康。\n解曰：示人當依本份平等，凡事再三籌議，不可涉訟，訟則終凶。若持財勢賄囑，或情面請託，雖僥倖一時之勝，終是欺心害理，不免子孫之受報耳。占者戒之。",
+    "story": "石崇被難",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220930381.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=17",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot17"
+    ],
+    "notes": "聖意行天宮官方圖檔作「名未濟。財平常。產勿謀。宜謹慎。」；temple01 作「名利未。亦如常。行人阻。且謹慎。」，以官方為準。等第官方作「下下」，temple01/brady 作「下吉」。"
+  },
+  {
+    "id": 18,
+    "name": "乙辛",
+    "level": "中平",
+    "poem": [
+      "知君指擬是空華",
+      "底事茫茫未有涯",
+      "牢把腳根踏實地",
+      "善為善應永無差"
+    ],
+    "traditional": "聖意：名利難。終則有。病禱神。訟勿鬥。行人遲。事難就。且向善。祈福佑。\n解曰：不宜妄意求謀，有名無實，只是空華，何用貪痴不已。不如按部就班，腳踏實地行去，內心存善，外行善事，將來自有善報，較之無益之求，不已遠乎。",
+    "story": "孟嘗君招賢",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220931081.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=18",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot18"
+    ],
+    "notes": "第三句各來源皆作「腳根」（非「腳跟」），照原文錄。"
+  },
+  {
+    "id": 19,
+    "name": "乙壬",
+    "level": "上吉",
+    "poem": [
+      "嗟子從來未得時",
+      "今年星運頗相宜",
+      "營求動作都如意",
+      "和合婚姻誕貴兒"
+    ],
+    "traditional": "聖意：作事吉。名利遂。婚姻成。訟得理。孕生貴。行人至。病易安。皆吉利。\n解曰：不問貴賤，皆主謀為和合，年運亨通。從前阻滯，一旦稱心。凡動皆主有成，不須疑慮。",
+    "story": "劉智遠得岳氏",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220941101.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=19",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot19"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "乙癸",
+    "level": "下下",
+    "poem": [
+      "一生心事向誰論",
+      "十八灘頭說與君",
+      "世事盡從流水去",
+      "功名富貴等浮雲"
+    ],
+    "traditional": "聖意：訟終凶。止則宜。名利輕。病擇醫。行人遠。婚遲疑。凡作事。且隨時。\n解曰：主同心無人，孤立少助，險難在前之象。既經指示，宜早提防。然大勢已去，難可挽回，不啻流水浮雲之變滅，惟有達觀排遣，斬斷利鎖名韁，毋復繫戀，更生事故。占者悟此，則知患難中玉成不少，或又有困而得亨之日乎。",
+    "story": "嚴子陵登釣臺",
+    "sources": [
+      "https://www.ht.org.tw/Upload/file_202403220941321.jpg",
+      "https://www.ht.org.tw/p7_download156.htm",
+      "https://qiangua.temple01.com/qianshi.php?t=fs100&s=20",
+      "https://www.brady.url.tw/wenwunew/index.php/zh/2023-05-15-03-52-29/2023-05-21-01-55-33/lot20"
+    ],
+    "notes": "等第行天宮官方圖檔作「下下」；temple01/brady 作「下吉」。"
+  }
+]
