@@ -73,7 +73,9 @@ export function DrawFlow({ temple }: { temple: TempleId }) {
       {step.name === 'drawn' && (
         <section className="draw-panel">
           <div className="drawn-stick">
-            <span className="drawn-no">第 {step.id} 首</span>
+            <span className="drawn-no">
+              第<span className="tcu">{step.id}</span>首
+            </span>
           </div>
           {noJiao[temple] ? (
             <>

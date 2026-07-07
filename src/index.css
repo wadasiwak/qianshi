@@ -396,6 +396,12 @@ body {
   animation: rise 0.6s ease-out;
 }
 
+/* 縦中横：直排中的阿拉伯數字橫放 */
+.tcu {
+  text-combine-upright: all;
+  -webkit-text-combine: horizontal;
+}
+
 @keyframes rise {
   from { transform: translateY(30px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
