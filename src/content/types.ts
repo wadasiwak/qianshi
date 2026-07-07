@@ -33,6 +33,7 @@ export interface Lot {
   traditional: string // 傳統聖意／解曰古文（行天宮有；其餘留空）
   story?: string // 籤詩典故
   title?: string // 明治神宮和歌題（心、誠…）
+  gloss?: string // 明治神宮歌語淺釋（自撰語譯＋古語注解）
   official?: Record<string, string> // 鹿港官方十類批註（功名…田畜）
   modern: string // 白話總解
   categories: Partial<Record<CategoryKey, string>> // 分類解讀（大御心不分類，空物件）

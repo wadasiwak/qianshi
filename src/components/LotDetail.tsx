@@ -89,6 +89,13 @@ export function LotDetail({
         </section>
       )}
 
+      {lot.gloss && (
+        <section className="block">
+          <h3>歌語淺釋</h3>
+          <p>{lot.gloss}</p>
+        </section>
+      )}
+
       {lot.traditional && (
         <section className="block">
           <h3>傳統解曰</h3>
