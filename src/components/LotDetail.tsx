@@ -112,7 +112,7 @@ export function LotDetail({
 
       {CATEGORY_KEYS.some((key) => lot.categories?.[key]) && (
         <section className="block">
-          <h3>分類解讀</h3>
+          <h3>{temple === 'meiji' ? '生活應用' : '分類解讀'}</h3>
           <div className="categories">
             {CATEGORY_KEYS.map((key) => {
               const text = lot.categories[key]

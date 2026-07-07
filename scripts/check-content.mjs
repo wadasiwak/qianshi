@@ -46,6 +46,9 @@ function checkTemple(file, label, expected, opts = {}) {
         err(`${tag}: 和歌分句異常`)
       }
       if (!lot.gloss) err(`${tag}: 缺歌語淺釋`)
+      for (const key of ['愛情婚姻', '事業工作', '財運', '健康', '考試學業']) {
+        if (!lot.categories?.[key]) err(`${tag}: 缺生活應用「${key}」`)
+      }
     } else {
       if (!Array.isArray(lot.poem) || lot.poem.length !== 4) err(`${tag}: 籤詩不是四句`)
       else if (lot.poem.some((p) => !p || p.length < 5)) err(`${tag}: 有過短的句子`)

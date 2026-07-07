@@ -46,9 +46,9 @@ function emit(varName, comment, lots, outFile) {
       ...(l.title ? { title: l.title } : {}),
       ...(l.gloss ? { gloss: l.gloss } : {}),
       ...(l.official ? { official: l.official } : {}),
-      // 大御心的 modern 直接寫在原始檔；漢籤的 modern 來自 interpretations/
+      // 大御心的 modern/categories 直接寫在原始檔；漢籤的來自 interpretations/
       modern: l.modern ?? extra.modern ?? '',
-      categories: extra.categories ?? {},
+      categories: l.categories ?? extra.categories ?? {},
     }
   })
   const body = merged.map((l) => `  ${JSON.stringify(l)},`).join('\n')
